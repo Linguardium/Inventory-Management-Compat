@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "mod.linguardium.invmgmtcompat.mixin.client",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "KeyPressInScreenMixin",
+    "SkipKeybindingMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
